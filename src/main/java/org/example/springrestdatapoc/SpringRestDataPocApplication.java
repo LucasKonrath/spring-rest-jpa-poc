@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringRestDataPocApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringRestDataPocApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringRestDataPocApplication.class, args);
+    }
 
 }
